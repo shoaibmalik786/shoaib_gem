@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.date = "2013-10-01"
   s.description = "My first gem."
   s.email = "shoaib2109@gmail.com"
-  s.extra_rdoc_files = ["README.rdoc", "lib/shoaib_gem.rb"]
-  s.files = ["README.rdoc", "Rakefile", "lib/shoaib_gem.rb", "Manifest", "shoaib_gem.gemspec"]
+  s.extra_rdoc_files = ["CHANGELOG", "README.md", "README.rdoc", "lib/shoaib_gem.rb"]
+  s.files = ["CHANGELOG", "Manifest", "README.md", "README.rdoc", "Rakefile", "lib/shoaib_gem.rb", "shoaib_gem.gemspec"]
   s.homepage = "http://github.com/shoaibmalik786/shoaib_gem"
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Shoaib_gem", "--main", "README.rdoc"]
   s.require_paths = ["lib"]

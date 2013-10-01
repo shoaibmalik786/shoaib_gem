@@ -1,4 +1,7 @@
+CHANGELOG
+Manifest
+README.md
 README.rdoc
 Rakefile
 lib/shoaib_gem.rb
-Manifest
+shoaib_gem.gemspec
